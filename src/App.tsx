@@ -1,6 +1,6 @@
-import React from "react";
+import * as React from "react";
 import "./App.css";
-import Image from "./images/image-qr-code.png";
+import Image from './images/image-qr-code.png';
 
 function App() {
   return (
